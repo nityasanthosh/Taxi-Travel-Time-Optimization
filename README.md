@@ -27,6 +27,8 @@ To achieve this, I used an **XGBoost model** to predict travel times between loc
 
 ##  Project Structure
 
+``` bash
+
 ├── .gitattributes # Git LFS tracking for large files
 ├── README.md # Project documentation
 ├── xgb_model.sav # Trained XGBoost model file
@@ -42,7 +44,7 @@ To achieve this, I used an **XGBoost model** to predict travel times between loc
 │ └── basic_analysis/
 │ ├── basic_analysis.ipynb # Exploratory data analysis
 │ └── cleaned_data.xlsx # Preprocessed dataset
-
+```
 
 ---
 
