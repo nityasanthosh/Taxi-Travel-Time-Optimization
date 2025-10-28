@@ -56,20 +56,20 @@ Install the dependencies before running any notebooks:
 pip install numpy pandas matplotlib xgboost geopy
 ```
 
-Usage
-1️. Data Analysis
+## Usage
+### 1️. Data Analysis
 
 Explore and preprocess data:
 ```bash
 Open Util_functions/basic_analysis/basic_analysis.ipynb
 ```
-2️. Model Training
+### 2️. Model Training
 
 Train and save the XGBoost model:
 ```bash
 Open Util_functions/xgboost.ipynb
 ```
-3️. Route Optimization
+### 3️. Route Optimization
 
 Run evolutionary algorithms:
 ```bash
@@ -78,11 +78,11 @@ Open Bio_Inspired_Algorithms/genetic_algo_main.ipynb
 ```
 ## Outputs
 
-- Predicted travel times between routes
-- Optimized travel paths and cost convergence plots
-- Saved model file (xgb_model.sav) for reuse
+* Predicted travel times between routes
+* Optimized travel paths and cost convergence plots
+* Saved model file (xgb_model.sav) for reuse
 
-# Example route convergence:
+### Example route convergence:
 
 | Algorithm               | Visualization                                |
 | ----------------------- | -------------------------------------------- |
