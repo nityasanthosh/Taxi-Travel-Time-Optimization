@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 #  Taxi Travel Time Optimization using Ant Colony & Genetic Algorithms
 
 This project focuses on optimizing **taxi travel time** in New York City by combining **machine learning** and **bio-inspired algorithms**. The problem is modeled as a **Traveling Salesman Problem (TSP)**, where the goal is to determine the most efficient route connecting multiple pickup and drop-off locations.
